@@ -1,0 +1,70 @@
+body {
+	font-family: sans-serif;
+	color: #666;
+	font-size: 1em;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.package-container {
+	margin: 0 auto;
+	width: 700px;
+	margin-bottom: 10px;
+	border: 1px solid #ccc;
+	padding: 20px;
+}
+
+.package-container.on {
+	background-color: #dff1db;
+}
+
+.package-head {
+	font-weight: bold;
+	padding-top: 30px;
+	overflow: hidden;
+}
+
+.package-foot {
+	overflow: hidden;
+	height: 28px;
+}
+
+.package-price {
+	position: relative;
+	float: right;
+}
+
+.package-radio {
+	position: relative;
+	float: left;
+}
+
+input[type="radio"] {
+	margin-top: -2px;
+	vertical-align: middle;
+}
+
+.selected-tag {
+	background-color: #0f7e5b;
+	color: #fff;
+	width: 100px;
+	position: relative;
+	float: right;
+	padding: 5px;
+	display: none;
+}
+
+.package-container.on .selected-tag {
+	display: block;
+}
+
+.package-body label {
+	font-weight: bold;
+}
+
+.package-body select {
+	width: 100%;
+}

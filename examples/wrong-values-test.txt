@@ -1,0 +1,13 @@
+01062016|11:00|13:00|Group session|11:00-13:00-group|160.50
+01062016|13:00|14:00|Individual session|13:00-14:00-individual|135
+02062016|11:00|11:30|Quick session|11:00-11:30-quick|100
+02062016|11:30|12:30|Individual session|11:30-12:30-individual|135
+32062016​|13:30|14:30|Wrong date #1|13:30-14:30-individual|150
+01132016​|13:30|14:30|Wrong date #2|13:30-14:30-individual|150
+03062016​|13.30|14:30|Wrong time #1|13:30-14:30-individual|135
+03062016​|13:30|14,30|Wrong time #2|13:30-14:30-individual|135
+03062016​|13:30:00|14:30:10|Wrong time #3|13:30-14:30-individual|135
+03062016​|13:30|14,30|Wrong reference #1|13:3014:30-individual|135
+03062016​|13:30|14,30|Wrong reference #2|13:30-14:30:individual|135
+04062016​|13:30|14:30|Wrong price #1|13:30-14:30-individual|ABC
+04062016​|13:30|14:30|Wrong price #2|13:30-14:30-individual|-250

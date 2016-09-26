@@ -1,0 +1,4 @@
+01062016|11:00|13:00|Group session|11:00-13:00-group|160.50
+01062016|13:00|14:00|Individual session|13:00-14:00-individual|135
+02062016|11:00|11:30|Quick session|11:00-11:30-quick|100
+02062016|11:30|12:30|Individual session|11:30-12:30-individual|135
